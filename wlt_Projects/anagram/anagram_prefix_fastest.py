@@ -5,7 +5,7 @@ Name: Lu Te, Wu
 This program recursively finds all the anagram(s)
 for the word input by user and terminates when the
 input string matches the EXIT constant defined
-at line 19
+at line 23
 
 If you correctly implement this program, you should see the
 number of anagrams for each word listed below:
