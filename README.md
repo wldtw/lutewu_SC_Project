@@ -9,9 +9,9 @@ Take a look at my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9
   * python semantics & syntax
 * [Weather Master](https://github.com/wlt-tw/lutewu_SC_Project/tree/main/wlt_Projects/weather_master)
   * python semantics & syntax
-* [MyPhotoshop]
+* [MyPhotoshop](https://github.com/wlt-tw/lutewu_SC_Project/tree/main/wlt_Projects/photoshop_greensreen)
   * image processing
-* [Pedestrian Removing Application]
+* [Pedestrian Removing Application](https://github.com/wlt-tw/lutewu_SC_Project/blob/main/wlt_Projects/Pedestrian%20Removing%20Application/Pedestrian_remove.py)
   * image processing
 * [Breakout Game](https://github.com/wlt-tw/lutewu_SC_Project/tree/main/wlt_Projects/breakout_game)
   * animation & game designing
