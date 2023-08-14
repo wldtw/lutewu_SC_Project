@@ -13,7 +13,6 @@ chances to try and win this game.
 
 import random
 
-
 # This constant controls the number of guess the player has.
 N_TURNS = 7
 
@@ -42,7 +41,12 @@ def main():
         if guess.isalpha():
             if answer.find(guess) == -1:    # wrong loss 1 chance
                 n -= 1
-                print('Wrong! You got ' + str(n) + ' chances. Guess it wisely!')
+                if n == 1:
+                    print('Wrong! You got ' + str(n) + ' chances. Last guess!')
+                elif n == 0:
+                    print('Wrong! Look at you!')
+                else:
+                    print('Wrong! You got ' + str(n) + ' chances. Guess it wisely!')
                 print(slowly_got_hang(n, body))
             else:   # if user provide right answer
                 pass_to_put_ch = ''
