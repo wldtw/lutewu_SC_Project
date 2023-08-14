@@ -2,7 +2,7 @@
 Hi\
 This repository holds my programming projects during StanCode SC101 course.
 
-Take a look at my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)
+Take a look at my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1F-hlXtwsKjlKaizB_8KC3Cj_EREspJzS?usp=drive_link)
 
 ## Projects Source Codes:
 * [Hangman Game](https://github.com/wlt-tw/lutewu_SC_Project/blob/main/wlt_Projects/hangman/hangman.py)
