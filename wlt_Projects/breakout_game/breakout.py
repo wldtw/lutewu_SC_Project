@@ -48,8 +48,6 @@ def main():
                 ball.x, ball.y+ball.height
                 ball.x+ball.width, ball.y+ball.height
                 
-                is there any way to write more efficiently?
-                
                 '''
                 hit_stuff_1 = breaking_game.window.get_object_at(breaking_game.ball.x, breaking_game.ball.y)
                 hit_stuff_2 = breaking_game.window.get_object_at(breaking_game.ball.x+breaking_game.ball.width,
